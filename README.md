@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stratege1401
 - 🏴‍I am French ... 29.8 Vietnam Chinese Mongol, and 19.6 Ibere ...
-- ⏲ 53 years old ... 2 kids, several wifes
+- ⏲ 55 years old ... 2 kids, several wifes
 - 👀 I’m interested in ... a lot !
 - 🌱 I’m currently learning ... not to be stupid.
 - 💞️ I’m looking to collaborate on ... slackware, docker, linux, nextcloud,strange stuff.
